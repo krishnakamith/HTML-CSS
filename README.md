@@ -5,6 +5,4 @@ This repository contains beginner-friendly projects built using only HTML and CS
 ## Projects List
 
 1. **Google Homepage Clone**
-   - Layout: Centered logo, search bar, buttons
-   - Responsive: Basic responsiveness using CSS
-   - Status: Completed
+2. **Business Card**
